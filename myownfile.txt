@@ -1,2 +1,2 @@
-sample file
+my new sample file
 
