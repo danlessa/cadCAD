@@ -4,6 +4,8 @@
 .idea
 .eggs
 .pytest_cache
+client_work
+
 notebooks
 *.egg-info
 __pycache__
@@ -14,6 +16,7 @@ results
 *.csv
 simulations/.ipynb_checkpoints
 simulations/validation/config3.py
+simulations/regression_tests/poc/
 cadCAD.egg-info
 
 build
